@@ -12,6 +12,30 @@ ul{
     text-align: center;
 }
 
+#caption1{
+    bottom: 70% !important;
+    color: white !important;
+    font-style: italic !important;
+}
+
+#caption2{
+    bottom: 80% !important;
+    color: white !important;
+    font-style: italic !important;
+}
+
+#img1{
+    padding-top: 145px;
+    width: 28%;
+
+}
+
+#img2{
+    padding-top: 150px;
+    width: 35%;
+}
+
+
 #subtitle{
     text-align: center;
     border-style:solid hidden hidden hidden;
